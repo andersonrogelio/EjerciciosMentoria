@@ -14,21 +14,4 @@ public class NumeroPar {
         System.out.println("El número"+numero+ "es par "+ vof);
     }
 
-//    public NumeroPar(int n, boolean vof ){
-////        this.numero = n;
-//
-//    }
-//    public void resultado(){
-//        System.out.println("Este numero"+ this.numero +" es par"+ this.vof);
-//    }
-//}
-//
-//public class EsPar extends NumeroPar{
-//    int n1;
-//    boolean par;
-//
-//    public EsPar(int n1, boolean par){
-//        super(n1,par);
-//        this.par = (n1 % 2 = 0);
-//    }
 }

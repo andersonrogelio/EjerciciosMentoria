@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a370f97-c032-458c-b39d-627e64465d0b" name="Changes" comment="Cree la clase ConversorMillasaKm.java que nos convierte millas en km hasta que introduzcamos la cantidad de 0 millas">
-      <change afterPath="$PROJECT_DIR$/src/main/java/entregable/Ejercicio3.java" afterDir="false" />
+    <list default="true" id="0a370f97-c032-458c-b39d-627e64465d0b" name="Changes" comment="En la clase ejercicio3 esta la forma de calcular el total de pago según las condiciones">
+      <change afterPath="$PROJECT_DIR$/src/main/java/entregable/NumeroParVersion2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicios/Division.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicios/Multiplicacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicios/Operaciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicios/Resta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicios/Suma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entregable/NumeroPar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entregable/NumeroPar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +45,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Ejercicio3">
     <configuration name="ConversorMillasaKm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="entregable.ConversorMillasaKm" />
@@ -114,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656516564826</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="En la clase ejercicio3 esta la forma de calcular el total de pago según las condiciones">
+      <created>1656518107346</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656518107346</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="En la clase NumeroPar sabemos si un numero es par o no, queda mejorarla." />
     <MESSAGE value="Cree la clase ConversorMillasaKm.java que nos convierte millas en km hasta que introduzcamos la cantidad de 0 millas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cree la clase ConversorMillasaKm.java que nos convierte millas en km hasta que introduzcamos la cantidad de 0 millas" />
+    <MESSAGE value="En la clase ejercicio3 esta la forma de calcular el total de pago según las condiciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="En la clase ejercicio3 esta la forma de calcular el total de pago según las condiciones" />
   </component>
 </project>
