@@ -4,27 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a370f97-c032-458c-b39d-627e64465d0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicios/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicios/Multiplicacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicios/Operaciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicios/Resta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicios/Suma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entregable/ConversorMillasaKm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entregable/NumeroPar.java" afterDir="false" />
+    <list default="true" id="0a370f97-c032-458c-b39d-627e64465d0b" name="Changes" comment="En la clase NumeroPar sabemos si un numero es par o no, queda mejorarla.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entregable/ConversorMillasaKm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entregable/ConversorMillasaKm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,10 +39,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ConversorMillasaKm">
+    <configuration name="ConversorMillasaKm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="entregable.ConversorMillasaKm" />
+      <module name="Practicas.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entregable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumeroPar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="entregable.NumeroPar" />
       <module name="Practicas.main" />
@@ -76,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConversorMillasaKm" />
         <item itemvalue="Application.NumeroPar" />
       </list>
     </recent_temporary>
@@ -89,6 +86,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656512628736</updated>
     </task>
+    <task id="LOCAL-00001" summary="En la clase NumeroPar sabemos si un numero es par o no, queda mejorarla.">
+      <created>1656515546432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656515546432</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,5 +106,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="En la clase NumeroPar sabemos si un numero es par o no, queda mejorarla." />
+    <option name="LAST_COMMIT_MESSAGE" value="En la clase NumeroPar sabemos si un numero es par o no, queda mejorarla." />
   </component>
 </project>
