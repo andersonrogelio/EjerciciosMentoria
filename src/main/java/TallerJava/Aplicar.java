@@ -44,7 +44,7 @@ public class Aplicar {
         //Ingrese una cadena por teclado y elimine los espacios
 //        operar.remplazarEspacios();
         //Ejercicio 11
-
+//        operar.contarCaracteresyVocales();
     }
 }
 

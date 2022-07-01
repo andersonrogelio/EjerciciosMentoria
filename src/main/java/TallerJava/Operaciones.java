@@ -2,6 +2,7 @@ package TallerJava;
 import java.util.Scanner;
 public class Operaciones {
     Scanner scanner = new Scanner(System.in);
+    Funciones funciones = new Funciones();
     int n1;
     int n2;
     double r,num_dou1;
@@ -103,5 +104,20 @@ public class Operaciones {
         this.palabra = scanner.nextLine();
         this.palabra = this.palabra.replaceAll(" ","");
         System.out.println(this.palabra);
+    }
+
+    public void contarCaracteresyVocales(){
+        long cantidadVocales = 0;
+        System.out.println("Ingrese un texto:");
+        this.palabra = scanner.nextLine();
+        this.palabra = funciones.quitaEspacios(this.palabra);
+        System.out.println("La cantidad de carácteres es: "+this.palabra.length());
+        cantidadVocales += this.palabra.chars().filter(a -> a == 'a').count();
+        cantidadVocales += this.palabra.chars().filter(e -> e == 'e').count();
+        cantidadVocales += this.palabra.chars().filter(i -> i == 'i').count();
+        cantidadVocales += this.palabra.chars().filter(o -> o == 'o').count();
+        cantidadVocales += this.palabra.chars().filter(u -> u == 'u').count();
+        System.out.println("La cantidad de vocales es: "+cantidadVocales);
+
     }
 }

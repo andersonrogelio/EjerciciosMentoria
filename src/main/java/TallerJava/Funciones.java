@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Funciones {
     int n1;
+    String palabra;
     public Funciones() {
     }
     Scanner scanner = new Scanner(System.in);
@@ -21,5 +22,18 @@ public class Funciones {
         }
     }
 
-
+    public String quitaEspacios(String palabra){
+        this.palabra = palabra;
+        this.palabra = this.palabra.replace(" ","");
+        return this.palabra;
+    }
+//    public String quitaVocales(String palabra){
+//        this.palabra = palabra;
+//        this.palabra = this.palabra.replace("a","");
+//        this.palabra = this.palabra.replace("e","");
+//        this.palabra = this.palabra.replace("i","");
+//        this.palabra = this.palabra.replace("o","");
+//        this.palabra = this.palabra.replace("u","");
+//        return this.palabra;
+//    }
 }
