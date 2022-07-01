@@ -14,3 +14,5 @@ X
 0src/main/java/entregable/ConversorMillasaKm.java,e\5\e585420bc46c1d7b7058ee12b7c47b2254ad60eb
 X
 (src/main/java/entregable/Ejercicio3.java,0\8\0875302c11305d237c7b178af2b6f78104650de8
+W
+'src/main/java/entregable/NumeroPar.java,d\7\d78cd5ce25abf1b81b027caa5fc766fa8a1ce73a

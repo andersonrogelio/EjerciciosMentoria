@@ -13,6 +13,4 @@ public class NumeroParVersion2 {
     }
 }
 
-public class Par extends NumeroParVersion2{
 
-}
