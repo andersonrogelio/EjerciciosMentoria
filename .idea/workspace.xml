@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a370f97-c032-458c-b39d-627e64465d0b" name="Changes" comment="Ejercicio 6 hecho el anterior era el 5">
-      <change beforePath="$PROJECT_DIR$/src/main/java/TallerJava/Funciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TallerJava/Funciones.java" afterDir="false" />
+    <list default="true" id="0a370f97-c032-458c-b39d-627e64465d0b" name="Changes" comment="Ejercicio 7 hecho">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TallerJava/Aplicar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TallerJava/Aplicar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/TallerJava/Operaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TallerJava/Operaciones.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656701124186</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Ejercicio 7 hecho">
+      <created>1656701814823</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656701814823</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,9 +191,9 @@
     <MESSAGE value="En la clase ejercicio3 esta la forma de calcular el total de pago según las condiciones" />
     <MESSAGE value="Solucione muchos errores" />
     <MESSAGE value="Hice algunos ejercicios más" />
-    <MESSAGE value="Ejercicio 7 hecho" />
     <MESSAGE value="Ejercicio 6 hecho el anterior era el 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 6 hecho el anterior era el 5" />
+    <MESSAGE value="Ejercicio 7 hecho" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 7 hecho" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

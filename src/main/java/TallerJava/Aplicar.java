@@ -31,7 +31,10 @@ public class Aplicar {
 
         //Ejercicio 7
         //Pedir número hasta que sea mayor o igual a cero y luego mostrarlo en pantalla
-        operar.verificarNumeroMayoraCero();
+//        operar.verificarNumeroMayoraCero();
+        //Ejercicio 8
+        //Perdir un dia de la semana y decir si es laborable o no con un switch
+        operar.esDiaLaboral();
     }
 }
 

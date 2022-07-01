@@ -6,6 +6,8 @@ public class Operaciones {
     int n2;
     double r,num_dou1;
 
+    String palabra;
+
     public Operaciones() {
     }
 
@@ -63,5 +65,28 @@ public class Operaciones {
             this.n1 = scanner.nextInt();
         }while (!(this.n1>=0));
         System.out.println("El número es: "+this.n1);
+    }
+
+    public void esDiaLaboral(){
+        System.out.println("Ingrese un día de la semana para saber si es laborable");
+        this.palabra = scanner.next();
+        switch (this.palabra){
+            case  "domingo":
+                System.out.println("Día no laborable");
+                break;
+            case "Domingo":
+                System.out.println("Día no laborable");
+                break;
+            case "sábado":
+                System.out.println("Día no laborable");
+                break;
+            case  "Sábado":
+                System.out.println("Día no laborable");
+                break;
+            default:
+                System.out.println("Día laborable");
+
+        }
+
     }
 }
