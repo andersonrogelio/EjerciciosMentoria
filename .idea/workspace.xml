@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a370f97-c032-458c-b39d-627e64465d0b" name="Changes" comment="Hice algunos ejercicios más">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TallerJava/Funciones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0a370f97-c032-458c-b39d-627e64465d0b" name="Changes" comment="Ejercicio 7 hecho">
       <change beforePath="$PROJECT_DIR$/src/main/java/TallerJava/Aplicar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TallerJava/Aplicar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TallerJava/Funciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TallerJava/Funciones.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656699958829</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ejercicio 7 hecho">
+      <created>1656700832438</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656700832438</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +176,22 @@
     <MESSAGE value="En la clase ejercicio3 esta la forma de calcular el total de pago según las condiciones" />
     <MESSAGE value="Solucione muchos errores" />
     <MESSAGE value="Hice algunos ejercicios más" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hice algunos ejercicios más" />
+    <MESSAGE value="Ejercicio 7 hecho" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 7 hecho" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/TallerJava/Aplicar.java</url>
+          <line>7</line>
+          <properties class="TallerJava.Aplicar" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

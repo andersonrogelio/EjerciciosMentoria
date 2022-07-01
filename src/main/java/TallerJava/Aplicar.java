@@ -20,10 +20,13 @@ public class Aplicar {
         //Le un numero por teclado y calcula el valor con el iva de 21%
 //        operar.calcularPrecioIVA();
 
-
+        //Ejercicio 5
         //Imprimir en pantalla los números pares e impares del 1 al 100
         Funciones funciones = new Funciones();
-        funciones.mostrarParesImpares();
+//        funciones.mostrarParesImpares();
+        //Ejercicio 6
+        //Mostrar pares e impares del 1 al 100 con un for
+        funciones.mostrarPareImparFor();
     }
 }
 

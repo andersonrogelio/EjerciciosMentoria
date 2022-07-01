@@ -14,4 +14,10 @@ public class Funciones {
             n1 += 1;
         }
     }
+
+    public void mostrarPareImparFor(){
+        for (int i = 50; i >=1 ; i--) {
+            System.out.println(" Número impar: "+(i*2-1)+" Número par: "+i*2);
+        }
+    }
 }
