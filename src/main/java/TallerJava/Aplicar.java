@@ -34,7 +34,11 @@ public class Aplicar {
 //        operar.verificarNumeroMayoraCero();
         //Ejercicio 8
         //Perdir un dia de la semana y decir si es laborable o no con un switch
-        operar.esDiaLaboral();
+//        operar.esDiaLaboral();
+
+        //Ejercicio 9
+        //Dada una cadena remplazar a por e y concatenarle algo que se ingrese por teclado
+        operar.cadenaRemplazadayConcatenacion();
     }
 }
 

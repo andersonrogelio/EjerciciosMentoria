@@ -89,4 +89,12 @@ public class Operaciones {
         }
 
     }
+
+    public void cadenaRemplazadayConcatenacion(){
+        this.palabra = "La sonrisa sera la mejor arma contra la tristesa ";
+        this.palabra = palabra.replace("a","e");
+        System.out.println("Ingrese un texto:");
+        this.palabra = this.palabra.concat(scanner.next());
+        System.out.println(this.palabra);
+    }
 }
