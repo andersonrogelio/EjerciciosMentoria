@@ -56,4 +56,12 @@ public class Operaciones {
         this.setNum_dou1(scanner.nextDouble());
         System.out.println("El valor con IVA incluida es: "+(this.calculoPorcentaje(21,this.num_dou1)+this.num_dou1));
     }
+
+    public void verificarNumeroMayoraCero(){
+        do{
+            System.out.println("Ingrese un número");
+            this.n1 = scanner.nextInt();
+        }while (!(this.n1>=0));
+        System.out.println("El número es: "+this.n1);
+    }
 }

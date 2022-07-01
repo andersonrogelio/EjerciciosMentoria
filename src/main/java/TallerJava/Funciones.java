@@ -20,4 +20,6 @@ public class Funciones {
             System.out.println(" Número impar: "+(i*2-1)+" Número par: "+i*2);
         }
     }
+
+
 }
