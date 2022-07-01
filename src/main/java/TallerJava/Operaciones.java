@@ -94,7 +94,14 @@ public class Operaciones {
         this.palabra = "La sonrisa sera la mejor arma contra la tristesa ";
         this.palabra = palabra.replace("a","e");
         System.out.println("Ingrese un texto:");
-        this.palabra = this.palabra.concat(scanner.next());
+        this.palabra = this.palabra.concat(scanner.nextLine());
+        System.out.println(this.palabra);
+    }
+
+    public void remplazarEspacios(){
+        System.out.println("Ingrese un texto");
+        this.palabra = scanner.nextLine();
+        this.palabra = this.palabra.replaceAll(" ","");
         System.out.println(this.palabra);
     }
 }

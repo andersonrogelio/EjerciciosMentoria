@@ -38,7 +38,13 @@ public class Aplicar {
 
         //Ejercicio 9
         //Dada una cadena remplazar a por e y concatenarle algo que se ingrese por teclado
-        operar.cadenaRemplazadayConcatenacion();
+//        operar.cadenaRemplazadayConcatenacion();
+
+        //Ejercicio 10
+        //Ingrese una cadena por teclado y elimine los espacios
+//        operar.remplazarEspacios();
+        //Ejercicio 11
+
     }
 }
 
