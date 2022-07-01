@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a370f97-c032-458c-b39d-627e64465d0b" name="Changes" comment="Solucione muchos errores">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TallerJava/Aplicar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TallerJava/Operaciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="0a370f97-c032-458c-b39d-627e64465d0b" name="Changes" comment="Hice algunos ejercicios más">
+      <change afterPath="$PROJECT_DIR$/src/main/java/TallerJava/Funciones.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entregable/NumeroParVersion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entregable/NumeroParVersion2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TallerJava/Aplicar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TallerJava/Aplicar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,20 +44,7 @@
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Aplicar">
-    <configuration name="Aplicar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TallerJava.Aplicar" />
-      <module name="Practicas.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TallerJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TallerJava.Aplicar">
     <configuration name="ConversorMillasaKm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="entregable.ConversorMillasaKm" />
       <module name="Practicas.main" />
@@ -100,9 +84,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TallerJava.Aplicar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TallerJava.Aplicar" />
+      <module name="Practicas.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TallerJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aplicar" />
+        <item itemvalue="Application.TallerJava.Aplicar" />
         <item itemvalue="Application.Ejercicio3" />
         <item itemvalue="Application.ConversorMillasaKm" />
         <item itemvalue="Application.NumeroPar" />
@@ -146,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656540612672</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Hice algunos ejercicios más">
+      <created>1656699958829</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656699958829</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +169,7 @@
     <MESSAGE value="Cree la clase ConversorMillasaKm.java que nos convierte millas en km hasta que introduzcamos la cantidad de 0 millas" />
     <MESSAGE value="En la clase ejercicio3 esta la forma de calcular el total de pago según las condiciones" />
     <MESSAGE value="Solucione muchos errores" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solucione muchos errores" />
+    <MESSAGE value="Hice algunos ejercicios más" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hice algunos ejercicios más" />
   </component>
 </project>
