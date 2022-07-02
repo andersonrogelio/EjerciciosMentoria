@@ -7,7 +7,7 @@ public class Operaciones {
     int n2;
     double r,num_dou1;
 
-    String palabra;
+    String palabra, palabra2;
 
     public Operaciones() {
     }
@@ -119,5 +119,44 @@ public class Operaciones {
         cantidadVocales += this.palabra.chars().filter(u -> u == 'u').count();
         System.out.println("La cantidad de vocales es: "+cantidadVocales);
 
+    }
+
+    public void palabrasIguales(){
+        System.out.println("Ingrese la primer palabra");
+        this.palabra = scanner.nextLine();
+        System.out.println("Ingrese la segunda palabra");
+        this.palabra2 = scanner.nextLine();
+        if(this.palabra.equals(this.palabra2)){
+            System.out.println("Las palabras son iguales");
+        } else {
+            char [] p1 = this.palabra.toCharArray();
+            char [] p2 = this.palabra2.toCharArray();
+
+            if (this.palabra.length() > this.palabra2.length()) {
+                System.out.println("Estas son las diferencias");
+            for (int i = 0 ;i <= p2.length-1 ;i++){
+                if ((p2 [i] != p1 [i]))
+                System.out.print(" "+ p2 [i]);
+
+            }
+        }
+            if (this.palabra.length() < this.palabra2.length()) {
+                System.out.println("Estas son las diferencias");
+            for (int i = 0 ;i<(p1.length  -1);i++){
+                if (!(p1 [i] == p2 [i]))
+                    System.out.print(" "+p1[i]);
+
+            }
+        }
+            if (this.palabra.length() == this.palabra2.length()) {
+                System.out.println("Estas son las diferencias");
+            for (int i = 0 ;i<(p1.length -1);i++){
+                if (!(p1[i] == p2[i]))
+                    System.out.print(" "+p1[i]);
+
+            }
+        }
+
+        }
     }
 }

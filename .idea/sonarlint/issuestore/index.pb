@@ -16,3 +16,7 @@ X
 (src/main/java/entregable/Ejercicio3.java,0\8\0875302c11305d237c7b178af2b6f78104650de8
 W
 'src/main/java/entregable/NumeroPar.java,d\7\d78cd5ce25abf1b81b027caa5fc766fa8a1ce73a
+G
+src/main/java/main.java,d\3\d3c26bf08301c98991887bafaf09d331e2067b4c
+_
+/src/main/java/entregable/NumeroParVersion2.java,d\9\d9308082e8dbc081c4318b6de2afd22119244013

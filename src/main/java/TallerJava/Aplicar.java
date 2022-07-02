@@ -22,7 +22,7 @@ public class Aplicar {
 
         //Ejercicio 5
         //Imprimir en pantalla los números pares e impares del 1 al 100
-        Funciones funciones = new Funciones();
+//        Funciones funciones = new Funciones();
 //        funciones.mostrarParesImpares();
 
         //Ejercicio 6
@@ -43,8 +43,14 @@ public class Aplicar {
         //Ejercicio 10
         //Ingrese una cadena por teclado y elimine los espacios
 //        operar.remplazarEspacios();
+
         //Ejercicio 11
+        //Cuenta cuantos caracteres tiene una cadena de texto y cuantas vocales
 //        operar.contarCaracteresyVocales();
+
+        //Ejercicio 12
+        //Recibir por teclado 2 palabras y mostrara si son iguales en caso de no ser lo mostrar sus diferencias
+//        operar.palabrasIguales();
     }
 }
 
