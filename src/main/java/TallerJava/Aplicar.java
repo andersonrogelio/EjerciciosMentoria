@@ -22,7 +22,7 @@ public class Aplicar {
 
         //Ejercicio 5
         //Imprimir en pantalla los números pares e impares del 1 al 100
-//        Funciones funciones = new Funciones();
+        Funciones funciones = new Funciones();
 //        funciones.mostrarParesImpares();
 
         //Ejercicio 6
@@ -51,6 +51,10 @@ public class Aplicar {
         //Ejercicio 12
         //Recibir por teclado 2 palabras y mostrara si son iguales en caso de no ser lo mostrar sus diferencias
 //        operar.palabrasIguales();
+
+        //Ejercicio 13
+        //Funcion que permita ver la fecha y hora actual
+        funciones.fechayHoraActual();
     }
 }
 

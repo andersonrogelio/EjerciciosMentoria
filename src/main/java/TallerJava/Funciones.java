@@ -1,5 +1,8 @@
 package TallerJava;
 
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
 import java.util.Scanner;
 
 public class Funciones {
@@ -36,4 +39,8 @@ public class Funciones {
 //        this.palabra = this.palabra.replace("u","");
 //        return this.palabra;
 //    }
+
+    public void fechayHoraActual(){
+        System.out.println(LocalDate.now()+" "+ LocalTime.now());
+    }
 }

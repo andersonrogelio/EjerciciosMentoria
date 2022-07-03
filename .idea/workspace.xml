@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a370f97-c032-458c-b39d-627e64465d0b" name="Changes" comment="Ejercicio 11 hecho">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="0a370f97-c032-458c-b39d-627e64465d0b" name="Changes" comment="Ejercicio 12 costo pero lo logre">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/TallerJava/Aplicar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TallerJava/Aplicar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TallerJava/Operaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TallerJava/Operaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TallerJava/Funciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TallerJava/Funciones.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656708559094</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Ejercicio 12 costo pero lo logre">
+      <created>1656799243033</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1656799243033</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,6 +252,7 @@
     <MESSAGE value="Ejercicio 9 hecho" />
     <MESSAGE value="Ejercicio 10 hecho" />
     <MESSAGE value="Ejercicio 11 hecho" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 11 hecho" />
+    <MESSAGE value="Ejercicio 12 costo pero lo logre" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 12 costo pero lo logre" />
   </component>
 </project>
