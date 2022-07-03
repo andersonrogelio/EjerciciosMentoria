@@ -58,7 +58,11 @@ public class Aplicar {
 
         //Ejercicio 14
         //Programa que ingresen un número y devuelva todos entre n y 1000 contados de 2 en 2
-        operar.numeroDe2en2();
+//        operar.numeroDe2en2();
+
+        //Ejercicio 15
+        //Es hacer un menú y según la opción seguir mostrando el menú ó terminar de mostrar el menú
+        operar.menuIterativo();
     }
 }
 
