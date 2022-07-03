@@ -54,7 +54,11 @@ public class Aplicar {
 
         //Ejercicio 13
         //Funcion que permita ver la fecha y hora actual
-        funciones.fechayHoraActual();
+//        funciones.fechayHoraActual();
+
+        //Ejercicio 14
+        //Programa que ingresen un número y devuelva todos entre n y 1000 contados de 2 en 2
+        operar.numeroDe2en2();
     }
 }
 

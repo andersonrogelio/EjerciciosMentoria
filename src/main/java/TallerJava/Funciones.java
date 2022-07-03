@@ -43,4 +43,5 @@ public class Funciones {
     public void fechayHoraActual(){
         System.out.println(LocalDate.now()+" "+ LocalTime.now());
     }
+
 }

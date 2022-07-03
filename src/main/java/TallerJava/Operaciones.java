@@ -159,4 +159,12 @@ public class Operaciones {
 
         }
     }
+
+    public void numeroDe2en2(){
+        System.out.println("Ingrese un número:");
+        this.n1 = scanner.nextInt();
+        for (int i = this.n1; i <= 1000; i = i+2) {
+            System.out.println(i);
+        }
+    }
 }
