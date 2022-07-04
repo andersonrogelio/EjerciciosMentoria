@@ -44,4 +44,43 @@ public class Persona {
 
         return imc;
     }
+    public boolean esMayorDeEdad(){
+        return this.edad>=18;
+    }
+    public void comprobarSexo(char sexo){
+        if (!((sexo == 'H')||(sexo == 'M'))) {
+            this.sexo = sexo;
+        }else{
+            this.sexo = hombre;
+        }
+    }
+    @Override
+    public String toString(){
+        return "Nombre:"+this.nombre +"  edad:"+this.edad+" DNI:"+this.dni+" Sexo:"+this.sexo+" Peso:"+this.peso+" Altura:"+this.altura;
+    }
+
+    public  generarDNI(){
+
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public void setEdad(int edad) {
+        this.edad = edad;
+    }
+
+    public void setSexo(char sexo) {
+        this.sexo = sexo;
+    }
+
+    public void setPeso(float peso) {
+        this.peso = peso;
+    }
+
+    public void setAltura(float altura) {
+        this.altura = altura;
+    }
 }
+
