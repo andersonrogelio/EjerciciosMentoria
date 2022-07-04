@@ -62,7 +62,7 @@ public class Aplicar {
 
         //Ejercicio 15
         //Es hacer un menú y según la opción seguir mostrando el menú ó terminar de mostrar el menú
-        operar.menuIterativo();
+//        operar.menuIterativo();
     }
 }
 
