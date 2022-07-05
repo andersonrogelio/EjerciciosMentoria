@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a370f97-c032-458c-b39d-627e64465d0b" name="Changes" comment="Ejercicio 16 terminado">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TallerJava/EjecucionPersona.java" afterDir="false" />
+    <list default="true" id="0a370f97-c032-458c-b39d-627e64465d0b" name="Changes" comment="Ejercicio 16 terminado junto con su clase ejecutable">
+      <change afterPath="$PROJECT_DIR$/src/main/java/TallerJava/Electrodomestico.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -255,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656984855800</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Ejercicio 16 terminado junto con su clase ejecutable">
+      <created>1656987068301</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1656987068301</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -300,6 +307,7 @@
     <MESSAGE value="Ejercicio 16 A medio camino de terminar" />
     <MESSAGE value="Ejercicio 16 Solo me falta hacer el generador de dni y la clase que ejecuta todo el ejercicio 16" />
     <MESSAGE value="Ejercicio 16 terminado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 16 terminado" />
+    <MESSAGE value="Ejercicio 16 terminado junto con su clase ejecutable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 16 terminado junto con su clase ejecutable" />
   </component>
 </project>
