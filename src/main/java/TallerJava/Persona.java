@@ -1,5 +1,7 @@
 package TallerJava;
 
+import java.util.Random;
+
 public class Persona {
     //Ejercicio 16
     final char hombre = 'H';
@@ -16,6 +18,7 @@ public class Persona {
         this.sexo = hombre;
         this.peso = 0;
         this.altura = 0;
+        generarDNI();
     }
     public Persona(String nombre, int edad, char sexo) {
         this.nombre =nombre;
@@ -23,14 +26,15 @@ public class Persona {
         this.sexo = sexo;
         this.peso = 0;
         this.altura = 0;
+        generarDNI();
     }
-    public Persona(String nombre, int edad,String dni, char sexo,float peso, float altura) {
+    public Persona(String nombre, int edad, char sexo,float peso, float altura) {
         this.nombre =nombre;
         this.edad = edad;
-        this.dni = dni;
         this.sexo = sexo;
         this.peso = peso;
         this.altura = altura;
+        generarDNI();
     }
     public int calcularIMC() {
         final int imc;
@@ -59,7 +63,19 @@ public class Persona {
         return "Nombre:"+this.nombre +"  edad:"+this.edad+" DNI:"+this.dni+" Sexo:"+this.sexo+" Peso:"+this.peso+" Altura:"+this.altura;
     }
 
-    public  generarDNI(){
+    public void generarDNI(){
+        int dni_num;
+        String dni;
+        char dni_char;
+        Random random = new Random();
+
+        dni_num = (int) (10000000+Math.random() * 99999999);
+
+        String caracteres="TRWAGMYFPDXBNJZSQVHLCKE";
+        int i_letra = dni_num%23;
+        dni_char = caracteres.charAt(i_letra);
+
+        this.dni = Integer.toString(dni_num) + dni_char;
 
     }
 
